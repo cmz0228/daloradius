@@ -77,6 +77,7 @@
                 <label for='config_lan' class='form'><?php echo $l['all']['PrimaryLanguage']?></label>
 		<select name="config_lang" class='form'>
 			<option value="en"> English </option>
+			<option value="zh"> China </option>
 			<option value="ru"> Russian </option>
 			<option value="hu"> Hungarian </option>
 			<option value="it"> Italian </option>
